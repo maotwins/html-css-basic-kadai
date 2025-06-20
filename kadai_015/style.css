@@ -1,14 +1,11 @@
 body {
-  font-family: "Arial", "Meiryo", sans-serif
-}
-
-html {
+  font-family: "Arial", "Meiryo", sans-serif;
   font-size: 20px;
   text-align: center;
 }
 
 .blue {
-  color: skyblue
+  color: skyblue;
 }
 
 .pink {
