@@ -23,7 +23,7 @@
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
-  position: absolute;
+  position: relative;
   top: 100px;
   left: 100px;
 }
@@ -31,10 +31,10 @@
 #middle-child02 {
   width: 200px;
   height: 200px;
-  background-color: #87ceeb;
-  position: absolute;
-  top: 300px;
+  position: relative;
+  top: 100px;
   left: 300px;
+  background-color: #87ceeb;
 }
 
 #middle-child03
@@ -42,8 +42,8 @@
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
-  position: absolute;
-  top: 500px;
+  position: relative;
+  top: 100px;
   left: 500px;
 }
 
