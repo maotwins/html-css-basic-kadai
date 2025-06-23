@@ -17,13 +17,14 @@
   height: 800px;
   margin: 20px auto;
   background-color: #ffd9df;
+  position: relative;
 }
 
 #middle-child01 {
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
-  position: relative;
+  position: absolute;
   top: 100px;
   left: 100px;
 }
@@ -31,8 +32,8 @@
 #middle-child02 {
   width: 200px;
   height: 200px;
-  position: relative;
-  top: 100px;
+  position: absolute;
+  top: 300px;
   left: 300px;
   background-color: #87ceeb;
 }
@@ -42,8 +43,8 @@
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
-  position: relative;
-  top: 100px;
+  position: absolute;
+  top: 500px;
   left: 500px;
 }
 
