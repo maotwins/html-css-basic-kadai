@@ -87,7 +87,7 @@ a:hover {
     font-size: 25px;
   }
 
-  #paint {
+  #parent {
     display: flex;
     flex-direction: column;
   }
